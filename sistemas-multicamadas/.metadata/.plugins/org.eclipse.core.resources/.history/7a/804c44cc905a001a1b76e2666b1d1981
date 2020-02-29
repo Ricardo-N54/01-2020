@@ -1,0 +1,9 @@
+package eng2020_1_a01;
+
+public class Retangulo extends Poligono {
+
+	public Retangulo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

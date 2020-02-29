@@ -1,0 +1,9 @@
+package eng2020_1_a01;
+
+public class Trapezio extends Poligono {
+
+	public Trapezio() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

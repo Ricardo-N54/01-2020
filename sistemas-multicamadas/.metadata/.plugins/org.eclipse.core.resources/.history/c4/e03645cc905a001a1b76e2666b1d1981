@@ -1,0 +1,9 @@
+package eng2020_1_a01;
+
+public class Triangulo extends Poligono {
+
+	public Triangulo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

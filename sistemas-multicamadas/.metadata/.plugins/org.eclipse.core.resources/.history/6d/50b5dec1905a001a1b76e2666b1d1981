@@ -1,0 +1,17 @@
+package eng2020_1_a01;
+
+public abstract class Poligono extends Figura {
+	private double base;
+	private double altura;
+
+	public Poligono() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public double area() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

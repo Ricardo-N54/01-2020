@@ -13,11 +13,6 @@ public abstract class Poligono extends Figura {
 	public double area() {
 		return 0;
 	}
-	
-	@Override
-	public double perimetro() {
-		return 0;
-	}
 
 	public double getBase() {
 		return base;

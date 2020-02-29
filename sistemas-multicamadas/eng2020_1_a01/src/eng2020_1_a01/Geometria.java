@@ -15,6 +15,7 @@ public class Geometria {
 		figuras.add(new Quadrado(10));
 		figuras.add(new Triangulo(10.0, 1.0));
 		figuras.add(new Losango(10.0, 1.0));
+		figuras.add(new Trapezio(10.0, 9.0, 5.0));
 
 		for(Figura figura: figuras) {
 			System.out.println("-------------------------------------------------------------------------");

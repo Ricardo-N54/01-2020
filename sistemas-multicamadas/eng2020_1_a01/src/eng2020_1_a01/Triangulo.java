@@ -8,14 +8,13 @@ public class Triangulo extends Poligono {
 
 	@Override
 	public double area() {
-		return (getBase()*getAltura())/2;
+		return (getBase() * getAltura()) / 2;
 	}
 
 	@Override
 	public double perimetro() {
 		// TODO 
-		return Math.
-		return super.perimetro();
+		return 0;
 	}
 
 	@Override

@@ -14,7 +14,6 @@ public class Triangulo extends Poligono {
 	@Override
 	public double perimetro() {
 		// TODO 
-		return Math.
 		return super.perimetro();
 	}
 
